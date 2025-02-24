@@ -1,1 +1,5 @@
-my resume.
+my resume
+
+Name: Madalynn Nenninger
+Major: CS
+Grad date: 2028
